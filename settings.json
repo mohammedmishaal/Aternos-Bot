@@ -2,7 +2,7 @@
   "name": "Bot",
   "bot-account": {
     "username": "Bot",
-    "password": "",
+    "password": "Bot123",
     "type": "offline"
   },
   "server": {
